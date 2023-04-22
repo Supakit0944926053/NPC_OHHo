@@ -1,0 +1,13 @@
+﻿// Made in NPC Maker by BowieD
+GUID 279dde18b6574e9bb9c38f38cfdd95f4
+ID 40044
+Type NPC
+Shirt 8915
+Pants 8916
+Face 0
+Beard 0
+Hair 0
+Color_Skin #D9CAB4
+Color_Hair #000000
+Pose Stand
+Dialogue 40045

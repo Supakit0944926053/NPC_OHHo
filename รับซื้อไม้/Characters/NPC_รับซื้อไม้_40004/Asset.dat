@@ -1,0 +1,16 @@
+﻿// Made in NPC Maker by BowieD
+GUID 921be57a6d874cf8bed4a7e14b48ee91
+ID 40004
+Type NPC
+Shirt 242
+Pants 243
+Hat 244
+Primary 490
+Equipped Primary
+Face 3
+Beard 3
+Hair 0
+Color_Skin #94764B
+Color_Hair #000000
+Pose Stand
+Dialogue 40005

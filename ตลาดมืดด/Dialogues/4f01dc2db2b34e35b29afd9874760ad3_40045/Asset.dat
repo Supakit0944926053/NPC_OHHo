@@ -1,0 +1,9 @@
+﻿// Made in NPC Maker by BowieD
+GUID 4f01dc2db2b34e35b29afd9874760ad3
+Type Dialogue
+ID 40045
+Messages 1
+Message_0_Pages 1
+Message_0_Prev 40045
+Responses 2
+Response_0_Vendor 40046
